@@ -8,7 +8,7 @@ Building real-world mobile applications and learning full stack development 🚀
 ---
 
 ### 👨‍💻 About Me
-
+*  ![](https://komarev.com/ghpvc/?username=212myash&color=blue)
 * 🎓 B.Tech CSE Student
 * 📱 Flutter Mobile App Developer
 * ⚙️ Backend Development using **Node.js & Express**
