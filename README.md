@@ -5,13 +5,17 @@
 Building real-world mobile applications and learning full stack development 🚀
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=212myash&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
-*  ![](https://komarev.com/ghpvc/?username=212myash&color=blue)
+
 * 🎓 B.Tech CSE Student
 * 📱 Flutter Mobile App Developer
-* ⚙️ Backend Development using **Node.js & Express**
+* ⚙️ Backend Development using **Node.js & Express.js**
 * 🗄️ Databases: **MySQL, MongoDB, Firebase**
 * ☁️ Deployment Platforms: **Vercel, Render**
 * 💡 Interested in **Full Stack App Development**
@@ -20,57 +24,38 @@ Building real-world mobile applications and learning full stack development 🚀
 
 ### 🛠 Tech Stack
 
-**Languages**
-
-* Dart
-* JavaScript
-* Java
-* C
-
-**Frameworks & Tools**
-
-* Flutter
-* Node.js
-* Express.js
-* Firebase
-* Git & GitHub
-* VS Code
-
-**Database**
-
-* MySQL
-* MongoDB
-* Firebase Firestore
-
-**Deployment / Cloud**
-
-* Vercel
-* Render
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,js,dart,flutter,nodejs,express,firebase,mysql,mongodb,git,github,vscode,vercel" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
 📱 **Sanskriti Yatra**
-Flutter mobile app for exploring Indian cultural heritage.
+Flutter mobile application for exploring Indian cultural heritage.
 
 🤖 **AI Payroll Expense Management**
-AI-based system for managing payroll and expenses.
+AI-based system for managing payroll and expense tracking.
 
 ⚙️ **Real-Time Process Monitoring Dashboard**
-Dashboard for monitoring system processes in real time.
+System monitoring dashboard for tracking real-time processes.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=212myash\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=212myash\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=212myash&theme=tokyonight"/>
+</p>
 
 ---
 
