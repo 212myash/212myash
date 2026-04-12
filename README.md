@@ -1,31 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=JARVIS+SYSTEM+INITIALIZING...;WELCOME+YASH+RAJ;FULL+STACK+DEVELOPER+ONLINE;SYSTEM+READY+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yash+Raj;Full+Stack+Developer;Flutter+%7C+Node.js+Developer;Building+Real+World+Projects+🚀" />
 </p>
 
 ---
 
-```diff
-+ BOOTING AI CORE...
-+ LOADING DEVELOPER PROFILE...
-+ AUTHENTICATION SUCCESSFUL ✅
-```
+# 👨‍💻 About Me
+
+* 🎓 B.Tech CSE Student
+* 💻 Full Stack Developer
+* 📱 Flutter + Node.js Developer
+* ☁️ Learning Cloud & Backend
 
 ---
 
-# 🤖 JARVIS PROFILE: YASH_RAJ
-
-```yaml
-name: Yash Raj
-role: Full Stack Developer
-education: B.Tech CSE
-focus: Web + App Development
-status: ACTIVE 🚀
-mission: Build real-world useful applications
-```
-
----
-
-# 🧠 AI MODULES (TECH STACK)
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,flutter,nodejs,mysql,git,github,vscode" />
@@ -33,95 +21,50 @@ mission: Build real-world useful applications
 
 ---
 
-# 🚀 PROJECTS
+# 🚀 Projects
 
-## 🧾 ABHA_APP
-
-```diff
-+ STATUS: ACTIVE
-+ TYPE: APP PROJECT
-```
+## 🧾 Abha App
 
 🔗 https://github.com/212myash/abha_app
 
----
-
-## 🏫 INSTITUTE_PROJECT
-
-```diff
-+ STATUS: ACTIVE
-+ TYPE: MANAGEMENT SYSTEM
-```
+## 🏫 Institute Project
 
 🔗 https://github.com/212myash/institute-project
 
----
-
-## 🍔 RESTAURANT_ORDERING_SYSTEM
-
-```diff
-+ STATUS: ACTIVE
-+ TYPE: WEB APPLICATION
-```
+## 🍔 Restaurant Ordering System
 
 🔗 https://github.com/212myash/restaurant-ordering-system
 
----
-
-## 🤖 AI_PAYROLL_EXPENSE_MANAGEMENT
-
-```diff
-+ STATUS: ACTIVE
-+ TYPE: AI BASED SYSTEM
-```
+## 🤖 AI Payroll Expense Management
 
 🔗 https://github.com/212myash/ai-payroll-expense-management
 
----
-
-## 🌍 SANSKRITI_YATRA
-
-```diff
-+ STATUS: ACTIVE
-+ TYPE: CULTURAL APP
-```
+## 🌍 Sanskriti Yatra
 
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=212myash&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=default" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=212myash&theme=default" width="48%" />
 </p>
 
 ---
 
-# 🏆 ACHIEVEMENT MODULE
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=212myash&theme=matrix&no-frame=true&margin-w=15" />
-</p>
-
----
-
-# 🌐 CONNECT NETWORK
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-9602a8271/">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:212myashraj@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-```diff
-+ SYSTEM STATUS: STABLE ✅
-+ AI MODE: ACTIVE 🤖
-+ NEXT TARGET: BUILD NEXT BIG PROJECT 🚀
-```
+⭐ *Keep Building & Keep Learning*
