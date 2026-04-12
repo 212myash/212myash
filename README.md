@@ -42,9 +42,8 @@
 
 🔗 https://github.com/212myash/ai-payroll-expense-management
 
-
-## 🖼️ Preview-->
-![App Screenshot](https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/blob/main/Screenshot%202026-04-12%20144127.png)
+## 🖼️ Preview
+![App Screenshot](https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png)
 
 ## 🌍 Sanskriti Yatra
 
