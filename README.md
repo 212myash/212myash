@@ -49,6 +49,8 @@
 
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
+![App Screenshot](https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg)
+
 ## ⚙️ CPU Scheduler Simulator
 
 🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
