@@ -39,7 +39,10 @@
 🔗 https://github.com/212myash/institute-project
 
 ## 🖼️ Preview-->
-![App Screenshot](https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="45%" />
+</p>
 
 ## 🍔 Restaurant Ordering System
 
