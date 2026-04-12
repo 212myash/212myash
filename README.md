@@ -41,7 +41,7 @@
 ## 🖼️ Preview-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="90%" />
 </p>
 
 ## 🍔 Restaurant Ordering System
@@ -59,7 +59,9 @@
 
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
-![App Screenshot](https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="80%" />
+</p>
 
 ## ⚙️ CPU Scheduler Simulator
 
