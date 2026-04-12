@@ -1,66 +1,88 @@
-<h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">Flutter Developer | Node.js Backend | MySQL | B.Tech CSE Student</h3>
-
 <p align="center">
-Building real-world mobile applications and learning full stack development 🚀
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=212myash&color=blue" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=JARVIS+SYSTEM+INITIALIZING...;WELCOME+YASH+RAJ;FULL+STACK+DEVELOPER+ONLINE;SYSTEM+READY+🚀" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-* 🎓 B.Tech CSE Student
-* 📱 Flutter Mobile App Developer
-* ⚙️ Backend Development using **Node.js & Express.js**
-* 🗄️ Databases: **MySQL, MongoDB, Firebase**
-* ☁️ Deployment Platforms: **Vercel, Render**
-* 💡 Interested in **Full Stack App Development**
+```diff
++ BOOTING AI CORE...
++ LOADING DEVELOPER PROFILE...
++ AUTHENTICATION SUCCESSFUL ✅
+```
 
 ---
 
-### 🛠 Tech Stack
+# 🤖 JARVIS PROFILE: YASH_RAJ
+
+```yaml
+name: Yash Raj
+role: Full Stack Developer
+education: B.Tech CSE
+focus: Web + App Development
+status: ACTIVE 🚀
+mission: Build real-world useful applications
+```
+
+---
+
+# 🧠 AI MODULES (TECH STACK)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,js,dart,flutter,nodejs,express,firebase,mysql,mongodb,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 PROJECT SYSTEM DATABASE
 
-📱 **Sanskriti Yatra**
-Flutter mobile application for exploring Indian cultural heritage.
+## 🍔 RESTAURANT_ORDERING_SYSTEM
 
-🤖 **AI Payroll Expense Management**
-AI-based system for managing payroll and expense tracking.
+```diff
++ STATUS: ACTIVE
++ TYPE: WEB APPLICATION
++ STACK: HTML | CSS | JavaScript
+```
 
-⚙️ **Real-Time Process Monitoring Dashboard**
-System monitoring dashboard for tracking real-time processes.
-
----
-
-### 📊 GitHub Stats
+🔗 https://github.com/212myash/restaurant-ordering-system
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=tokyonight"/>
+  <img src="ADD_YOUR_PROJECT_SCREENSHOT_HERE" width="80%" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=212myash&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=212myash&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+# 🏆 ACHIEVEMENT MODULE
 
-* GitHub: https://github.com/212myash
-* LinkedIn: https://www.linkedin.com/in/yash-raj-9602a8271
-* Email: [212myashraj@gmail.com](mailto:212myashraj@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=212myash&theme=matrix&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# 🌐 CONNECT NETWORK
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+```diff
++ SYSTEM STATUS: STABLE ✅
++ AI MODE: ACTIVE 🤖
++ NEXT TARGET: BUILD NEXT BIG PROJECT 🚀
+```
