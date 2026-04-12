@@ -49,6 +49,13 @@
 
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
+## ⚙️ CPU Scheduler Simulator
+
+🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
+
+## 🖼️ Preview
+![App Screenshot](https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png)
+
 ---
 
 # 📊 GitHub Stats
