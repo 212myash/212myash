@@ -73,7 +73,7 @@
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="65%" />
+  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="38%" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="65%" />
+  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="38%" />
 </p>
 
 ---
