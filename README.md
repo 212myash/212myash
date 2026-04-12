@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=JARVIS+SYSTEM+INITIALIZING...;WELCOME+YASH+RAJ;FULL+STACK+DEVELOPER+ONLINE;SYSTEM+READY+🚀" />
 </p>
 
@@ -86,3 +86,4 @@ mission: Build real-world useful applications
 + AI MODE: ACTIVE 🤖
 + NEXT TARGET: BUILD NEXT BIG PROJECT 🚀
 ```
+](https://www.linkedin.com/in/yash-raj-9602a8271/)
