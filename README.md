@@ -34,6 +34,8 @@
   <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/DS.jpeg" width="45%" />
 </p>
 
+---
+
 ## 🏫 Institute Project
 
 🔗 https://github.com/212myash/institute-project
@@ -44,16 +46,25 @@
   <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="90%" />
 </p>
 
+---
+
 ## 🍔 Restaurant Ordering System
 
 🔗 https://github.com/212myash/restaurant-ordering-system
+
+---
 
 ## 🤖 AI Payroll Expense Management
 
 🔗 https://github.com/212myash/ai-payroll-expense-management
 
 ## 🖼️ Preview
-![App Screenshot](https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png" width="80%" />
+</p>
+
+---
 
 ## 🌍 Sanskriti Yatra
 
@@ -63,12 +74,17 @@
   <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="80%" />
 </p>
 
+---
+
 ## ⚙️ CPU Scheduler Simulator
 
 🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
 
 ## 🖼️ Preview
-![App Screenshot](https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="80%" />
+</p>
 
 ---
 
