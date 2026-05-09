@@ -159,12 +159,15 @@
 <table align="center">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🧾 Abha App
 
 <a href="https://github.com/212myash/abha_app">
-  <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/HS.jpeg" width="90%" />
+  <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/HS.jpeg"
+       width="55%"
+       height="420px"
+       style="object-fit:cover; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -173,12 +176,15 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🏫 Institute Project
 
 <a href="https://github.com/212myash/institute-project">
-  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png"
+       width="90%"
+       height="420px"
+       style="object-fit:contain; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -191,12 +197,15 @@
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI Payroll Expense Management
 
 <a href="https://github.com/212myash/ai-payroll-expense-management">
-  <img src="https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png"
+       width="90%"
+       height="420px"
+       style="object-fit:contain; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -205,12 +214,15 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🌍 Sanskriti Yatra
 
 <a href="https://github.com/212myash/Sanskriti_Yatra">
-  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="55%" />
+  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg"
+       width="55%"
+       height="420px"
+       style="object-fit:cover; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -223,12 +235,15 @@
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ CPU Scheduler Simulator
 
 <a href="https://github.com/Biswajeet111/cpu-scheduler-simulator">
-  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="55%" />
+  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png"
+       width="55%"
+       height="420px"
+       style="object-fit:cover; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -237,12 +252,15 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🍔 Restaurant Ordering System
 
 <a href="https://github.com/212myash/restaurant-ordering-system">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="40%" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+       width="55%"
+       height="420px"
+       style="object-fit:contain; border-radius:10px;" />
 </a>
 
 <br><br>
@@ -252,6 +270,45 @@
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 📊 Real-Time Process Monitoring Dashboard
+
+<a href="https://github.com/212myash/The-Real-Time-Process-Monitoring-Dashboard">
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png"
+       width="55%"
+       height="420px"
+       style="object-fit:contain; border-radius:10px;" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/212myash/The-Real-Time-Process-Monitoring-Dashboard">🔗 Repository</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📚 bazario
+
+<a href="https://github.com/212myash/bazario">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+       width="55%"
+       height="420px"
+       style="object-fit:contain; border-radius:10px;" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/212myash/bazario">🔗 Repository</a>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
