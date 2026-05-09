@@ -32,11 +32,12 @@
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🧾 Abha App
 
-> Healthcare management application built using Flutter & Node.js.
+> Healthcare management application with client management, recharge system, and admin dashboard.
 
 ### 🔧 Tech Used
 `Flutter` `Node.js` `MySQL` `REST API`
@@ -49,7 +50,7 @@
 
 ## 🏫 Institute Project
 
-> Modern institute management and service platform.
+> Institute management platform for courses, services, and student handling.
 
 ### 🔧 Tech Used
 `HTML` `CSS` `JavaScript` `Bootstrap`
@@ -57,14 +58,16 @@
 🔗 https://github.com/212myash/institute-project
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🤖 AI Payroll Expense Management
 
-> AI-based payroll and expense tracking dashboard.
+> AI-powered payroll and employee expense management dashboard.
 
 ### 🔧 Tech Used
 `React` `Node.js` `MySQL`
@@ -77,7 +80,7 @@
 
 ## 🌍 Sanskriti Yatra
 
-> Indian heritage and cultural exploration application.
+> Cultural heritage and tourism exploration mobile application.
 
 ### 🔧 Tech Used
 `Flutter` `Firebase`
@@ -85,14 +88,16 @@
 🔗 https://github.com/212myash/Sanskriti_Yatra
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## ⚙️ CPU Scheduler Simulator
 
-> CPU scheduling algorithm visualization project.
+> Visual simulator for CPU scheduling algorithms and process execution.
 
 ### 🔧 Tech Used
 `Flutter` `Dart`
@@ -105,7 +110,7 @@
 
 ## 🍔 Restaurant Ordering System
 
-> Smart food ordering and restaurant management system.
+> Smart restaurant ordering and food management application.
 
 ### 🔧 Tech Used
 `Flutter` `Node.js` `MongoDB`
@@ -113,6 +118,37 @@
 🔗 https://github.com/212myash/restaurant-ordering-system
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 The Real-Time Process Monitoring Dashboard
+
+> Python-based dashboard for real-time system process and activity monitoring.
+
+### 🔧 Tech Used
+`Python` `Flask` `Dashboard`
+
+🔗 https://github.com/212myash/The-Real-Time-Process-Monitoring-Dashboard
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 bazario
+
+> Modern project repository and development workspace.
+
+### 🔧 Tech Used
+`Dart`
+
+🔗 https://github.com/212myash/bazario
+
+</td>
+
 </tr>
 </table>
 
