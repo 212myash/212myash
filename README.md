@@ -22,8 +22,68 @@
 
 # 🛠️ Tech Stack
 
+---
+
+## 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,dart,python,c,cpp,php" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+</p>
+
+---
+
+## 📱 Mobile App Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud & Hosting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
 </p>
 
 ---
