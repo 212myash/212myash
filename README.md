@@ -28,6 +28,96 @@
 
 ---
 
+# 📦 Project Collections
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+## 🧾 Abha App
+
+> Healthcare management application built using Flutter & Node.js.
+
+### 🔧 Tech Used
+`Flutter` `Node.js` `MySQL` `REST API`
+
+🔗 https://github.com/212myash/abha_app
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏫 Institute Project
+
+> Modern institute management and service platform.
+
+### 🔧 Tech Used
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+🔗 https://github.com/212myash/institute-project
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 AI Payroll Expense Management
+
+> AI-based payroll and expense tracking dashboard.
+
+### 🔧 Tech Used
+`React` `Node.js` `MySQL`
+
+🔗 https://github.com/212myash/ai-payroll-expense-management
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌍 Sanskriti Yatra
+
+> Indian heritage and cultural exploration application.
+
+### 🔧 Tech Used
+`Flutter` `Firebase`
+
+🔗 https://github.com/212myash/Sanskriti_Yatra
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⚙️ CPU Scheduler Simulator
+
+> CPU scheduling algorithm visualization project.
+
+### 🔧 Tech Used
+`Flutter` `Dart`
+
+🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🍔 Restaurant Ordering System
+
+> Smart food ordering and restaurant management system.
+
+### 🔧 Tech Used
+`Flutter` `Node.js` `MongoDB`
+
+🔗 https://github.com/212myash/restaurant-ordering-system
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🚀 Featured Projects
 
 <table align="center">
