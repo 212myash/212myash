@@ -11,16 +11,16 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student
-* 💻 Full Stack Developer
-* 📱 Flutter + Node.js Developer
-* ☁️ Learning Cloud
+- 🎓 B.Tech CSE Student  
+- 💻 Full Stack Developer  
+- 📱 Flutter + Node.js Developer  
+- ☁️ Learning Cloud  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,flutter,nodejs,mysql,git,github,vscode" />
@@ -28,66 +28,109 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
 
 ### 🧾 Abha App
 
-🔗 https://github.com/212myash/abha_app
+<a href="https://github.com/212myash/abha_app">
+  <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/HS.jpeg" width="90%" />
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/HS.jpeg" width="38%" />
-  <img src="https://raw.githubusercontent.com/212myash/abha_app/main/assets/images/DS.jpeg" width="38%" />
-</p>
+<br><br>
 
----
+<a href="https://github.com/212myash/abha_app">🔗 Repository</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🏫 Institute Project
 
-🔗 https://github.com/212myash/institute-project
+<a href="https://github.com/212myash/institute-project">
+  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="90%" />
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/institute-project/main/Screenshot%202026-04-12%20142524.png" width="65%" />
-</p>
+<br><br>
 
----
+<a href="https://github.com/212myash/institute-project">🔗 Repository</a>
 
-### 🍔 Restaurant Ordering System
+</td>
 
-🔗 https://github.com/212myash/restaurant-ordering-system
+</tr>
 
----
+<tr>
+
+<td width="50%" align="center">
 
 ### 🤖 AI Payroll Expense Management
 
-🔗 https://github.com/212myash/ai-payroll-expense-management
+<a href="https://github.com/212myash/ai-payroll-expense-management">
+  <img src="https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png" width="90%" />
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/ai-payroll-expense-management/main/Screenshot%202026-04-12%20144127.png" width="65%" />
-</p>
+<br><br>
 
----
+<a href="https://github.com/212myash/ai-payroll-expense-management">🔗 Repository</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🌍 Sanskriti Yatra
 
-🔗 https://github.com/212myash/Sanskriti_Yatra
+<a href="https://github.com/212myash/Sanskriti_Yatra">
+  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="55%" />
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/212myash/Sanskriti_Yatra/main/heritage_and_culture/assets/Ss.jpeg" width="38%" />
-</p>
+<br><br>
 
----
+<a href="https://github.com/212myash/Sanskriti_Yatra">🔗 Repository</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### ⚙️ CPU Scheduler Simulator
 
-🔗 https://github.com/Biswajeet111/cpu-scheduler-simulator
+<a href="https://github.com/Biswajeet111/cpu-scheduler-simulator">
+  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="55%" />
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajeet111/cpu-scheduler-simulator/main/assets/images/frontpage.png" width="38%" />
-</p>
+<br><br>
+
+<a href="https://github.com/Biswajeet111/cpu-scheduler-simulator">🔗 Repository</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🍔 Restaurant Ordering System
+
+<a href="https://github.com/212myash/restaurant-ordering-system">
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="40%" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/212myash/restaurant-ordering-system">🔗 Repository</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=212myash&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -96,12 +139,13 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-raj-9602a8271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:212myashraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -115,4 +159,6 @@
 
 ---
 
-⭐ *Code Hard • Build Smart • Stay Consistent*
+<p align="center">
+⭐ <b>Code Hard • Build Smart • Stay Consistent</b>
+</p>
