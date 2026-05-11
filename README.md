@@ -13,10 +13,25 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student  
-- 💻 Full Stack Developer  
-- 📱 Flutter + Node.js Developer  
-- ☁️ Learning Cloud  
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 B.Tech CSE Student passionate about building modern and scalable applications  
+
+💻 Full Stack Developer focused on creating responsive web & mobile solutions  
+
+📱 Flutter & Node.js Developer with experience in REST APIs and database integration  
+
+⚡ Strong interest in UI/UX, backend systems, and real-world problem solving  
+
+☁️ Currently learning Cloud Computing, DevOps, and scalable deployment architectures  
+
+🚀 Love building innovative projects and continuously exploring new technologies  
+
+📚 Always learning, improving, and experimenting with modern development tools  
+
+🌱 Goal: To become a highly skilled Software Engineer & Full Stack Architect  
+
+<br clear="right"/>
 
 ---
 
