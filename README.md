@@ -1,12 +1,23 @@
-<!-- HEADER -->
+<!-- PROFILE HEADER -->
+
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#22C55E;">Yash Raj</span>
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | Flutter & Node.js Developer | Cloud Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Yash+Raj;Full+Stack+Developer;Flutter+%7C+Node.js+Developer;Building+Scalable+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+%7C+Node.js+Developer;Building+Modern+Web+%26+Mobile+Apps;Passionate+About+Scalable+Systems;Always+Learning+New+Technologies+🚀" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/212myash?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=212myash&style=for-the-badge&color=blue"/>
+  <a href="https://github.com/212myash">
+    <img src="https://github-profile-trophy.vercel.app/?username=212myash&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  </a>
 </p>
 
 ---
